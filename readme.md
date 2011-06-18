@@ -1,6 +1,6 @@
 # jade_npp
 
-README taken from [markdown_npp](https://github.com/jjchiw/markdown_npp)
+README taken from [markdown_npp](https://github.com/thomsmits/markdown_npp)
 
 ## Overview
 
