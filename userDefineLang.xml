@@ -1,0 +1,38 @@
+<NotepadPlus>
+    <UserLang name="Jade" ext="jade">
+        <Settings>
+            <Global caseIgnored="yes" />
+            <TreatAsSymbol comment="no" commentLine="no" />
+            <Prefix words1="no" words2="no" words3="yes" words4="yes" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Delimiters">&apos;&quot;0&apos;&quot;0</Keywords>
+            <Keywords name="Folder+"></Keywords>
+            <Keywords name="Folder-"></Keywords>
+            <Keywords name="Operators">&amp; ( ) * =</Keywords>
+            <Keywords name="Comment">1/* 2*/ 0//</Keywords>
+            <Keywords name="Words1">azimuth background background-attachment background-color background-image background-position background-repeat border border-bottom border-bottom-color border-bottom-style border-bottom-width border-collapse border-color border-left border-left-color border-left-style border-left-width border-right border-right-color border-right-style border-right-width border-spacing border-style border-top border-top-color border-top-style border-top-width border-width bottom caption-side clear clip color content counter-increment counter-reset cue cue-after cue-before cursor direction display elevation empty-cells float font font-family font-size font-size-adjust font-stretch font-style font-variant font-weight height left letter-spacing line-height list-style list-style-image list-style-position list-style-type margin margin-bottom margin-left margin-right margin-top marker-offset marks max-height max-width min-height min-width orphans outline outline-color outline-style outline-width overflow padding padding-bottom padding-left padding-right padding-top page page-break-after page-break-before page-break-inside pause pause-after pause-before pitch pitch-range play-during position quotes richness right size speak speak-header speak-numeral speak-ponctuation speech-rate stress table-layout text-align text-decoration text-indent text-shadow text-transform top unicode-bidi vertical-align visibility voice-family volume white-space widows width word-spacing z-index</Keywords>
+            <Keywords name="Words2">active after before first first-child first-letter first-line focus hover lang left link right visited pt pc in mm cm em ex px ms s %</Keywords>
+            <Keywords name="Words3">! + : @</Keywords>
+            <Keywords name="Words4"># .</Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="FFAA00" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="F8F8F8" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="F6F080" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" keywordClass="instre1" />
+            <WordsStyle name="TYPE WORD" styleID="16" fgColor="FFAA00" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" keywordClass="type1" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FF3A83" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="STRING" styleID="6" fgColor="55E439" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="CHARACTER" styleID="7" fgColor="55E439" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="FFAA00" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="VERBATIM" styleID="13" fgColor="FF3A83" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="REGEX" styleID="14" fgColor="FFB454" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="1E9AE0" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="1E9AE0" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="COMMENT DOC" styleID="3" fgColor="1E9AE0" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="COMMENT LINE DOC" styleID="15" fgColor="1E9AE0" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="COMMENT DOC KEYWORD" styleID="17" fgColor="1E9AE0" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="COMMENT DOC KEYWORD ERROR" styleID="18" fgColor="1E9AE0" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
