@@ -3,18 +3,18 @@
         <Settings>
             <Global caseIgnored="yes" />
             <TreatAsSymbol comment="no" commentLine="no" />
-            <Prefix words1="no" words2="no" words3="yes" words4="yes" />
+            <Prefix words1="yes" words2="no" words3="no" words4="yes" />
         </Settings>
         <KeywordLists>
             <Keywords name="Delimiters">&apos;&quot;0&apos;&quot;0</Keywords>
             <Keywords name="Folder+"></Keywords>
             <Keywords name="Folder-"></Keywords>
-            <Keywords name="Operators">&amp; ( ) * =</Keywords>
-            <Keywords name="Comment">1/* 2*/ 0//</Keywords>
-            <Keywords name="Words1">azimuth background background-attachment background-color background-image background-position background-repeat border border-bottom border-bottom-color border-bottom-style border-bottom-width border-collapse border-color border-left border-left-color border-left-style border-left-width border-right border-right-color border-right-style border-right-width border-spacing border-style border-top border-top-color border-top-style border-top-width border-width bottom caption-side clear clip color content counter-increment counter-reset cue cue-after cue-before cursor direction display elevation empty-cells float font font-family font-size font-size-adjust font-stretch font-style font-variant font-weight height left letter-spacing line-height list-style list-style-image list-style-position list-style-type margin margin-bottom margin-left margin-right margin-top marker-offset marks max-height max-width min-height min-width orphans outline outline-color outline-style outline-width overflow padding padding-bottom padding-left padding-right padding-top page page-break-after page-break-before page-break-inside pause pause-after pause-before pitch pitch-range play-during position quotes richness right size speak speak-header speak-numeral speak-ponctuation speech-rate stress table-layout text-align text-decoration text-indent text-shadow text-transform top unicode-bidi vertical-align visibility voice-family volume white-space widows width word-spacing z-index</Keywords>
-            <Keywords name="Words2">active after before first first-child first-letter first-line focus hover lang left link right visited pt pc in mm cm em ex px ms s %</Keywords>
-            <Keywords name="Words3">! + : @</Keywords>
-            <Keywords name="Words4"># .</Keywords>
+            <Keywords name="Operators">( ) = | </Keywords>
+            <Keywords name="Comment">1/* 2*/ 0// 0//-</Keywords>
+            <Keywords name="Words1">!!! !doctype a acronym action address applet archive area article aside audio b base basefont bdo big blockquote body br button canvas caption center char charoff checkbox col colgroup command comment datafld dataformatas datalist datapagesize datasrc dd defer del details dfn div dl dt em embed event fieldset figure figcaption file footer font form frameset h1 h2 h3 h4 h5 h6 head header headers hgroup hidden hr html i iframe image img input ins isindex kbd keygen label leftmargin legend li list map mark menu meta meter nav object ol optgroup option onreset onselect onsubmit onunload output p param password progress pre public q radio reset rp rt ruby s samp script section select small source span strike strong sub submit sup table tbody td textarea tfoot th thead time topmargin tr tt u ul var video xml xmlns</Keywords>
+            <Keywords name="Words2">abbr accept-charset accept accesskey align alink alt archive axis background bgcolor border cellpadding cellspacing char charoff charset checked cite class classid clear code codebase codetype color cols colspan compact content coords data datetime declare dir disabled enctype face for frame frameborder height href hreflang hspace http-equiv id ismap label lang language link list longdesc marginwidth marginheight maxlength media method multiple name noframes nohref noresize noscript noshade nowrap object onblur onchange onclick ondblclick onfocus onkeydown onkeypress onkeyup onload onmousedown onmousemove onmouseover onmouseout onmouseup placeholder profile prompt readonly rel rev rows rowspan rules scheme scope scrolling selected shape size span src standby start style summary tabindex target text title type usemap valign value valuetype version vlink vspace width</Keywords>
+            <Keywords name="Words3"># . </Keywords>
+            <Keywords name="Words4"></Keywords>
         </KeywordLists>
         <Styles>
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="FFAA00" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
