@@ -19,9 +19,9 @@ Installation instructions (taken from Notepad++ Web site [1]):
 5. If this is the first userdefined language you are adding, copy/paste the
    entire first file (which you downloaded) into the userDefineLang.xml, 
    replacing all that was there. If this is the second or more language you 
-   add, simply copy everything from the first file starting at <UserLang...> 
-   to </UserLang> and paste it at the end of the userDefineLang.xml right 
-   before </NotepadPlus>
+   add, simply copy everything from the first file starting at `<UserLang...>` 
+   to `</UserLang>` and paste it at the end of the userDefineLang.xml right 
+   before `</NotepadPlus>`
 6. Save the newly improved userDefineLang.xml
 
 
